@@ -4,20 +4,10 @@ A simple terminal-based chat application built in Python to learn SSH, networkin
 
 This project is designed as a learning exercise rather than a production-ready chat application. It explores how two users connected through SSH can communicate using a shared chat log, with the goal of gradually evolving into a socket-based real-time chat system.
 
----
-
-## Features
-
-* Terminal-based chat
-* Runs through an SSH session
-* Shared chat log
-* Real-time message monitoring using a background thread
-* Simple Python implementation
-* Easy to understand and modify
 
 ---
 
-## Technologies & Concepts
+
 
 * Python 3
 * SSH (Secure Shell)
@@ -25,19 +15,7 @@ This project is designed as a learning exercise rather than a production-ready c
 * Multithreading (`threading`)
 * File I/O
 * Networking Fundamentals
-* Linux Command Line
-* Docker (optional)
 
----
-
-## Project Structure
-
-```text
-.
-├── chat.py
-├── chat.log
-└── README.md
-```
 
 ---
 
@@ -92,33 +70,7 @@ Both users can now exchange messages through the shared log.
 
 ---
 
-## Learning Goals
 
-This project explores:
-
-* How SSH works
-* Running programs remotely
-* Reading and writing files
-* Multithreading in Python
-* Terminal input/output
-* Continuous file monitoring
-* Building command-line applications
-
----
-
-## Future Improvements
-
-* TCP Socket communication
-* Client/Server architecture
-* Multiple chat rooms
-* User authentication
-* Colored usernames
-* Private messaging
-* File sharing
-* End-to-end encryption
-* Message history
-* Better terminal interface
-* Cross-platform support
 
 ---
 
