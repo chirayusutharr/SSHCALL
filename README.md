@@ -2,7 +2,6 @@
 
 A simple terminal-based chat application built in Python to learn SSH, networking, multithreading, and file-based communication.
 
-This project is designed as a learning exercise rather than a production-ready chat application. It explores how two users connected through SSH can communicate using a shared chat log, with the goal of gradually evolving into a socket-based real-time chat system.
 
 
 ---
