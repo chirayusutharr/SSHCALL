@@ -37,25 +37,14 @@ ssh username@server-ip
 ```
 
 
-Or if using another port:
-
-```bash
-ssh -p 2222 username@server-ip
-```
-
----
-
 ## Run the Chat
 
 Navigate to the project directory:
 
 ```bash
 cd SSH-Terminal-Chat
-```
 
-Run:
 
-```bash
 python3 chat.py
 ```
 
@@ -69,6 +58,5 @@ Both users can now exchange messages through the shared log.
 
 ---
 
-## Project Status
 
-This roject is under active development as part of a networking and systems programming learning journey.
+development as part of a networking and systems programming learning journey.
