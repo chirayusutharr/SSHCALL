@@ -36,11 +36,6 @@ From another computer:
 ssh username@server-ip
 ```
 
-Example:
-
-```bash
-ssh ravi@192.168.1.10
-```
 
 Or if using another port:
 
